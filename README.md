@@ -82,3 +82,5 @@ consistent throughout the website.
 
 Searchable: The website should be searchable so that customers can easily find the products they
 are looking for. The search function should be easy to use and should return relevant results.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FrpQcaH88WE5uxFpbZYnd5n%2FShoppe---eCommerce-Clothing-Fashion-Store-Multi-Purpose-UI-Mobile-App-Design-(Community)%3Fnode-id%3D0-1%26t%3DW3bmvakUVp6KNTqz-1" allowfullscreen></iframe>
