@@ -1,6 +1,7 @@
 # Codsoft-
 Task 1
 Mobile App Signup Flow
+https://www.figma.com/design/sTVgXVv0JkzpDqdPy14V5X/MOBILE-SIGN-UP-FLOW?node-id=0-1&t=iUkHvrYFud7iIPZp-1
 
 A mobile app signup flow is the process of users creating an account and signing up for an
 app. The goal of a good signup flow is to make it easy and quick for users to sign up, while
