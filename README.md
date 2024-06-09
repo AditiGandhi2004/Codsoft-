@@ -26,3 +26,28 @@ Secure: The signup flow should be secure, so that users' personal information is
 
 Embedded Code:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FsTVgXVv0JkzpDqdPy14V5X%2FMobile-App-Signup-Flow-(Community)%3Fnode-id%3D0-1%26t%3DxaTC2vupfcBK6yNk-1" allowfullscreen></iframe>
+
+
+
+
+TASK 2
+Restaurant menu
+https://www.figma.com/design/Q33HTniVuPcRPVrf2JITmw/Restaurant-Menu-(Community)?node-id=0-1&t=IXfA6wei3dffwBrx-1
+
+A restaurant menu UI/UX project is the process of designing a menu that is
+both visually appealing and easy to use. The goal of a good restaurant menu
+is to make it easy for customers to find the dishes they want, and to
+encourage them to order more.
+
+Visually appealing: The menu should be visually appealing and easy to read. The use of
+colors, fonts, and images should be carefully considered to create a visually appealing
+menu.
+
+Easy to use: The menu should be easy to use and navigate. The customer should be able to
+easily find the necessary information and make their selections.
+
+Categorized: The menu should be categorized, so that customers can easily find the dishes
+they are looking for. The categories should be clear and concise, and they should be
+consistent throughout the menu.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FQ33HTniVuPcRPVrf2JITmw%2FRestaurant-Menu-(Community)%3Fnode-id%3D0-1%26t%3DIXfA6wei3dffwBrx-1" allowfullscreen></iframe>
